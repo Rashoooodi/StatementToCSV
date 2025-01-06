@@ -16,7 +16,7 @@ This project aims to provide a Python script that can OCR (Optical Character Rec
    python ocr_to_csv.py <path_to_pdf> <output_csv_file>
    ```
 
-3. The script will process the PDF, perform OCR, and generate a CSV file with the extracted data.
+3. The script will ask if the output is for Cashew or BlueCoins, process the PDF, perform OCR, and generate a CSV file with the extracted data.
 
 ## Contributing
 
