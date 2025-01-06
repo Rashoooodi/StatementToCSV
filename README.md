@@ -4,6 +4,9 @@
 
 This project aims to provide a Python script that can OCR (Optical Character Recognition) bank statement PDFs and convert them into CSV files. The generated CSV files are formatted to be compatible with BlueCoins and Cashew, two popular personal finance management applications.
 
+### FYI:
+May only work with: Al Salam Bank
+
 ## How to Use
 
 1. Install the required Python packages by running:
